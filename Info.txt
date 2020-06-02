@@ -1,0 +1,7 @@
+Las direcciones de los archivos de texto (InstruccionesM.txt,
+Memoria.txt y RegistrosT.txt) dentro de los codigos de la 
+carpeta Sources se tienen que modificar por las direcciones
+de los archivos de texto de la carpeta Text Sources.
+
+Las instrucciones en lenguaje de maquina se pueden modificar en
+el archivo de texto InstruccionesM.txt
